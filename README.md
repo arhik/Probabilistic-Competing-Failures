@@ -3,3 +3,5 @@ In a Body Sensor Network, the sensors information is relayed through relay withi
 In this project the wireless motes may fail because of sensor failure or tranmission failure. 
 
 The monte-carlo simulation of the above scenario is done to compute its reliability.
+
+![BaseFT](https://www.github.com/arhik/Probabilistic-Competing-Failures/.Images/BaseFT.png)
