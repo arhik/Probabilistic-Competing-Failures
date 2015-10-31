@@ -4,4 +4,4 @@ In this project the wireless motes may fail because of sensor failure or tranmis
 
 The monte-carlo simulation of the above scenario is done to compute its reliability.
 
-![BaseFT](https://www.github.com/arhik/Probabilistic-Competing-Failures/.Images/BaseFT.png)
+![BaseFT](https://github.com/arhik/Probabilistic-Competing-Failures/blob/master/.Images/BaseFT.png)
